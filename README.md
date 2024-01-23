@@ -38,8 +38,8 @@ I worked on this on this project with my peers, Chase Seeberger and Will Schickl
 
 ## Link
 
--GitHub Repository: https://github.com/shhutc18/Note-Taker
--Deployed Heroku Application: https://cryptic-temple-93019-062354756c10.herokuapp.com/
+- GitHub Repository: https://github.com/shhutc18/Note-Taker
+- Deployed Heroku Application: https://cryptic-temple-93019-062354756c10.herokuapp.com/
 
 ## Screenshot 
 
