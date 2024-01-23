@@ -43,7 +43,7 @@ GitHub Repository: https://github.com/shhutc18/Note-Taker
 
 ## Screenshot 
 
-<!-- Insert screenshot here -->
+<img src="./images/Note Taker Final.jpg">
 
 ## Questions
 
